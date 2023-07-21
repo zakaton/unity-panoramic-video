@@ -1,2 +1,3 @@
-﻿SelectableObjectBehavior
-	rotate
+﻿Panoramic Video
+eye open/close detection to pause/resume video
+Eye Tracking to detect video gaze
