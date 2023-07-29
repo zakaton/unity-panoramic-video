@@ -1,2 +1,3 @@
-﻿eye open/close detection to pause/resume video
+﻿pause/resume video with pinches
+pause/resume with eyes open/closed
 Eye Tracking to detect video gaze
