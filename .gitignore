@@ -83,3 +83,4 @@ build*
 mono_crash*
 
 .DS_Store
+*.mov
